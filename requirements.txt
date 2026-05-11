@@ -1,0 +1,9 @@
+pymupdf
+pandas
+pillow
+pytesseract
+opencv-python
+numpy
+jupyter
+notebook
+ipykernel

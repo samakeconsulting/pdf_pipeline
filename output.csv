@@ -1,0 +1,211 @@
+page,width,height,page_area,image_ratio,image_count,text_ratio,block_count,density,native_chars,native_words,native_score,repetition_score,page_type,processing_time,qa_valid,qa_flags,text
+1,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.033587083002203144,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0001-2025
+"
+2,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.02118299999710871,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0002-2025
+"
+3,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.022361209001246607,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0003-2025
+"
+4,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.021502709001651965,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0004-2025
+"
+5,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.02149229100177763,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0005-2025
+"
+6,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.02103966700087767,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0006-2025
+"
+7,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.020961916998203378,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0007-2025
+"
+8,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.021445374997711042,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0008-2025
+"
+9,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.022142916001030244,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0009-2025
+"
+10,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.02123554200079525,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0010-2025
+"
+11,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.021079665999423014,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0011-2025
+"
+12,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.02154862500174204,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0012-2025
+"
+13,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.02117691700186697,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0013-2025
+"
+14,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.020531916001345962,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0014-2025
+"
+15,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.02054616600071313,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0015-2025
+"
+16,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.02147675000014715,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0016-2025
+"
+17,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.020959249999577878,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0017-2025
+"
+18,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.020537707998300903,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0018-2025
+"
+19,612.0,792.0,484704.0,1.0,1,0.012739116999264857,9,1.8568033273915628e-05,332,46,0.7915191199580933,0.8885542168674698,scan,0.021286041002895217,True,[],"Monsieur/Madame: CISSÉ Hamidou
+Numéro de police: POL-2021-637887
+Date de l'événement: 10/04/2024
+Nature du sinistre: Décès suite à maladie
+Capital réclamé: 43 000 000 FCFA
+Bénéficiaire désigné: YAO Brou
+Lien de parenté: Conjoint(e)
+Coordonnées bancaires: SGBCI - IBAN CI00 1234 5678 9012 3456 789
+Document référence: AACI-0019-2025
+"
+20,612.0,792.0,484704.0,1.0,1,0.012202814683446615,9,1.8568033273915628e-05,320,44,0.8051477272727273,0.884375,scan,0.020925750002788845,True,[],"Assuré: FOFANA Djeneba
+Date de naissance: 21/07/1980
+Taille / Poids: 172 cm / 75 kg - IMC: 25.3
+Fumeur: Non   Alcool: Occasionnel
+Antécédents: Hypertension traitée depuis 2018
+Traitement en cours: Amlodipine 5mg/jour
+Hospitalisation < 5 ans: Non
+Pratique sportive: Natation 2x/semaine
+Document référence: AACI-0020-2025
+"
+21,612.0,792.0,484704.0,1.0,1,0.011783944332766059,9,1.8568033273915628e-05,305,41,0.8158560575769693,0.8950819672131147,scan,0.020811374997720122,True,[],"Assuré: OUATTARA Ladji
+Contrat: POL-2022-156368 — Formule OR Famille
+Nombre de bénéficiaires: 4 (assuré + conjoint + 2 enfants)
+Prime trimestrielle: 238 000 FCFA
+Échéance: 01/04/2026
+Mode de paiement: Prélèvement automatique CIB
+Agence: Agence Cocody
+Conseiller: M. Ali
+Document référence: AACI-0021-2025
+"
