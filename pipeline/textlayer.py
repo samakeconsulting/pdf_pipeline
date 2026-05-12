@@ -5,6 +5,7 @@ PRINTABLE = set(string.printable)
 TOP_IGNORE = 0.05
 BOTTOM_IGNORE = 0.95
 
+
 def clean_ratio(text):
 
     if not text:
@@ -14,6 +15,7 @@ def clean_ratio(text):
 
     return valid / len(text)
 
+
 def text_blocks(page):
 
     return [
@@ -21,7 +23,11 @@ def text_blocks(page):
         if b[4].strip()
     ]
 
+
 def text_coverage(page, page_area):
+
+    if page_area <= 0:
+        return 0, 0
 
     useful = 0
     blocks = text_blocks(page)
